@@ -19,3 +19,8 @@
 /* rotate - girar */
 /* scale - aumenta visualmente su escala */
 /* skew - inclinar */
+
+.caja {
+    border-radius: 10px;
+    width: 400px;
+}
